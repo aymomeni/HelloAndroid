@@ -1,2 +1,3 @@
 # HelloAndroid
-Android practice using Hello, Android 3rd edition
+Android practice using Hello, Android 
+3rd edition, by Ed Burnette
