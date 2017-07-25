@@ -6,13 +6,13 @@
  ! We make no guarantees that this code is fit for any purpose.
  ! Visit http://www.pragmaticprogrammer.com/titles/eband4 for more book information.
 -->
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res-auto"
+<FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:clipChildren="false"
-    tools:context=".TicTacToeActivity">
+    tools:context=".MainActivity">
 
     <fragment
         android:id="@+id/main_fragment"
