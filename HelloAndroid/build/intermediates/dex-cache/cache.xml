@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_dc6b294278895f0ced05c6b2c136ef123a100801\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\383be1900ada927c3cfa1d51745c3b631515a280\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c21a311901756917ce4acc7187059590dfd1278b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_bc925790a331ce8ea28b244ac70bb42134258a59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\9718eb5dd88bcbf9f9568522ca1124ff91c3dfbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f8bb8cccdf787d4eca4c5eaaa88da126aa60ef7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3d7f5431ec18c11d3b3e53d5751e925cdb19e31">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69e7f58a308d3a80994b0aa7095e3cc0a55ac1d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\6d9c3a980780b05f074d803c9d336021d25b8679\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_728e7cf779b8da83ab009910f8302c2939b7b4ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\ad9348140e5ae21ca49436e2514263c13718313c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_093d1a074c473db76dd114d2a680a33588b71db6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\4ec9493822f352b3bc32609cdd17afefb818d46e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ce13639544f2a1be29ff667b5f5e5c2f6731a9be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\69d232436559258085f2d43495af585061a2c0c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_63a62a8bbca76406c933be1721328a3cdbf1945d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\ad330277c440dbbfa4869dd0c938556acb4cb7cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b3a468c22cd243fb77dd90788d4369e115f968a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\d6810fcccbe2d35ff0a1f75b44fd9e91295a4010\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba099406b4723e199efaf60ab7a1bacd9b9e6f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_584407836ca746cdeca7ce100c133b6a728afb5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\7206d5496f679ed496d436f4fc58698db727e270\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d27afdf273aa774deac16adecdf58eac6428a1cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ali\.android\build-cache\a77be9c34c53bf22f0a03613b23af1fa9101aa4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Ali\Documents\Git\HelloAndroid\HelloAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40d19526f19e4a5b6d4eeaca0a1fcc0e3e76bfe3\classes.dex" />
+    </item>
+
+</items>

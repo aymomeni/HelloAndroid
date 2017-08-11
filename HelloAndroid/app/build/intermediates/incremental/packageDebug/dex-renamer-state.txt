@@ -1,0 +1,7 @@
+#Wed Jul 19 22:17:17 MDT 2017
+base.0=C\:\\Users\\Ali\\Documents\\Git\\HelloAndroid\\HelloAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69e7f58a308d3a80994b0aa7095e3cc0a55ac1d1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ali\\Documents\\Git\\HelloAndroid\\HelloAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_584407836ca746cdeca7ce100c133b6a728afb5f\\classes.dex
+base.1=C\:\\Users\\Ali\\Documents\\Git\\HelloAndroid\\HelloAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_584407836ca746cdeca7ce100c133b6a728afb5f
+file.0=C\:\\Users\\Ali\\Documents\\Git\\HelloAndroid\\HelloAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_69e7f58a308d3a80994b0aa7095e3cc0a55ac1d1\\classes.dex
