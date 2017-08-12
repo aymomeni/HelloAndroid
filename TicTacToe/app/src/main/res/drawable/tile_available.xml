@@ -6,7 +6,8 @@
  ! We make no guarantees that this code is fit for any purpose.
  ! Visit http://www.pragmaticprogrammer.com/titles/eband4 for more book information.
 -->
-<shape android:shape="rectangle">
+<shape android:shape="rectangle"
+       xmlns:android="http://schemas.android.com/apk/res/android">
     <stroke
         android:color="@color/dark_border_color"
         android:width="@dimen/stroke_width" />

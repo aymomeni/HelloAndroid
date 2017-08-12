@@ -26,8 +26,7 @@ public class GameActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_game);
         // Restore game here...
-        mGameFragment = (GameFragment) getFragmentManager()
-                .findFragmentById(R.id.fragment_game);
+        mGameFragment = (GameFragment) getFragmentManager().findFragmentById(R.id.fragment_game);
         boolean restore = getIntent().getBooleanExtra(KEY_RESTORE, false);
         if (restore) {
             String gameData = getPreferences(MODE_PRIVATE)
@@ -39,20 +38,11 @@ public class GameActivity extends Activity {
         Log.d("UT3", "restore = " + restore);
     }
 
-    @Override
-    protected void onPause(){
-        super.onPause();
-        String gameData = mGameFragment.getState();
-        getPreferences(MODE_PRIVATE).edit().putString(PREF_RESTORE, gameData).commit();
-        Log.d("UT3", "state = " +gameData);
-    }
-
     public void restartGame() {
         mGameFragment.restartGame();
     }
 
     public void reportWinner(final Tile.Owner winner) {
-
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setMessage(getString(R.string.declare_winner, winner));
         builder.setCancelable(false);
@@ -66,8 +56,17 @@ public class GameActivity extends Activity {
         final Dialog dialog = builder.create();
         dialog.show();
 
-        // resetting board to initial position
+        // Reset the board to the initial position
         mGameFragment.initGame();
+    }
 
+    @Override
+    protected void onPause() {
+        super.onPause();
+        String gameData = mGameFragment.getState();
+        getPreferences(MODE_PRIVATE).edit()
+                .putString(PREF_RESTORE, gameData)
+                .commit();
+        Log.d("UT3", "state = " + gameData);
     }
 }
